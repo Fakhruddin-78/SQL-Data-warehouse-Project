@@ -7,7 +7,6 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 ## 🏗️ Data Architecture
 
 The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
-![Data Architecture](docs/data_architecture.png)
 
 1. **Bronze Layer**: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
 2. **Silver Layer**: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
@@ -109,6 +108,30 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Fakhruddin hatod**,  I’m an B.tech Data Science student at Sushila Devi Bansal College Of Engineering
+# Hi there, I'm Fakhruddin Hatod 👋
+
+🎓 **B.Tech Data Science Student** (6th Semester) at *Sushila Devi Bansal College of Engineering*  
+💡 Passionate about turning complex data into actionable insights and building intelligent systems.
+
+---
+
+### 💻 About Me
+- 🔭 **Current Focus:** Advanced Machine Learning algorithms & predictive modeling.
+- 🛠️ **Core Skills:** Python, Data Analysis, Machine Learning, SQL, Data Visualization.
+- 📚 **Currently Learning:** Deep Learning, Model Deployment, and Big Data Technologies.
+- 🎯 **Goal:** Building impactful AI/Data Science projects and preparing for industry roles.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+- **Languages:** Python, SQL, 
+- **Data Science & ML:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+- **Tools & Platforms:** Git, GitHub, Jupyter Notebook, VS Code
+
+---
+
+### 📬 Let's Connect!
+- **Email:** fakhruddinhatod@gmail.com
 
 
